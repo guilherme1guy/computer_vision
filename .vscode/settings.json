@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/home/gguy/.local/share/virtualenvs/computer_vision-zpGaL4pA/bin/python",
+    "python.analysis.extraPaths": [
+        "/home/gguy/.local/share/virtualenvs/computer_vision-zpGaL4pA/lib/python3.10/site-packages"
+    ]
+}

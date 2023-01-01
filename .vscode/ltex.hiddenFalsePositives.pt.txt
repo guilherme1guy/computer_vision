@@ -1,0 +1,1 @@
+{"rule":"REPEATED_WORDS_3X","sentence":"^\\QA distância focal altera o campo de visão da imagem, uma distância focal menor aumenta o campo de visão da imagem e uma distância focal maior diminui o campo de visão.\\E$"}
